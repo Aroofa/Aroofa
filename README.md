@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-About Me:
+# About Me:
 
-Linkedin: link to [Linkedin](https://www.linkedin.com/in/aroofa-mohammad/)
+Linkedin: Link to [Linkedin](https://www.linkedin.com/in/aroofa-mohammad/)
 
 <!--
 **Aroofa/Aroofa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
