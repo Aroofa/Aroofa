@@ -1,8 +1,36 @@
-## Hi there 👋
+## Hi there, I’m Aroofa 👋 
+** IoT Systems Engineer & Machine Learning Developer & Surveillance Systems Engineer
 
-# About Me:
+## 🎓 Experience & Education
+B.S. in Computer Science, University of Texas at Dallas
+Red Hat Certified System Administrator (RHCSA) Certification
+AWS Cloud Practitioner CLF-C02 Certification
 
-Linkedin: Link to [Linkedin](https://www.linkedin.com/in/aroofa-mohammad/)
+## 💻 Skills & Technologies 
+### Programming Languages: 
+Java, JavaScript, C++, Python, SQL Operating Systems: Linux, UNIX, Windows, Mac
+### Tools & Technologies: 
+mdadm, Docker, Visual Studio, Git, Scrum, SQL Server
+### Networking & Systems: 
+MAC/IP diagnostics, RTSP/ONVIF protocols, Bandwidth analysis, RAID, Cloud Storage
+
+## 🧰 Projects
+### Breast Cancer Detection | Python | Machine Learning
+Constructed machine learning techniques on a database that was provided by Wisconsin Breast Cancer to generate an accurate estimate of patients' diagnosis of breast cancer. Applied method such Logistic Regression, Support Vector Machine (SVM), Decision tree, and K-Nearest
+Neighbors (KNN). Demonstrated confusion matrix to determine the accuracy of the machine learning algorithm. Concluded research that Support Vector Machine would be the best choice due to its simplicity and accuracy.
+
+## 🔭 What I’m Working On 
+AWS Certified Solutions Architect Certification
+Docker and Kubernetes Certification (Project come soon)
+CompTia A+ (Just think about it, I know the material would just need to take test)
+
+## 🌱 Side Interests & Values 
+I love blending my interests and have alot of random hobbies like spending time with freshwater fish and aquariums, diving into coding and computer projects, experimenting with AI and machine learning, exploring the stock market, and staying curious about economics and financial strategies.
+
+## 📫 Let’s Connect 
+[Aroofa's Linkedin](https://www.linkedin.com/in/aroofa-mohammad/)
+Email: aroofamohammad@hotmail.com
+Feel free to explore my GitHub repos and drop me a message if you’d like to collaborate!
 
 <!--
 **Aroofa/Aroofa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
